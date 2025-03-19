@@ -1,0 +1,75 @@
+/* Dedicated to God the Father */
+
+/* All Rights Reserved Christopher Andrew Topalian Copyright 2000-2023 */
+
+/* https://github.com/ChristopherTopalian */
+
+/* https://github.com/ChristopherAndrewTopalian */
+
+/* style001.css */
+
+body
+{
+    background-color: rgb(40, 40, 40);
+    color: rgb(255, 255, 255);
+}
+
+.mainDiv
+{
+    position: fixed;
+    top : 0px;
+    left : 0px;
+    width: 400px;
+    padding : 5px;
+    margin: 20px;
+    border-radius: 8px;
+    z-index: 10000;
+    background-color : rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.userInput
+{
+    width: 340px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 8px;
+    background-color: rgb(0,0,0);
+    color: rgb(255, 255, 255);
+}
+
+.robotTextStyle
+{
+    color: rgb(255, 135, 255);
+}
+
+.sendButton
+{
+    margin-left: 5px;
+    border-radius: 8px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.sendButton:hover
+{
+    border-color: aqua;
+}
+
+.sendButton:active
+{
+    color: rgb(0, 255, 255);
+}
+
+.chatBox
+{
+    height: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: black;
+    overflow-y: scroll;
+}
