@@ -1,6 +1,8 @@
 # CATopalian JavaScript Robot AI
 A JavaScript application that creates a Robot AI to chat with that utilizes simple patterns to teach the foundations of natural language processing AI.  
 
+USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Robot_AI/CATopalian_JavaScript_Robot_AI.html
+
 If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)
 
 ---
