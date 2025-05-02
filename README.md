@@ -5,8 +5,6 @@ USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Robot
 
 ![screenshot_001](src/media/textures/screenshots/001.PNG)
 
-If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)
-
 ---
 
 ### How to Download this App
